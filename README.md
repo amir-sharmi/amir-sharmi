@@ -1,6 +1,15 @@
-# Hi, I'm Amir 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=200&section=header&text=Amir%20Sharmi&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 
-## Frontend Developer | Aspiring Full Stack Developer 🚀
+<h2 align="center">
+👋 Hi, I'm Amir
+</h2>
+
+
+<h3 align="center">
+Frontend Developer | Aspiring Full Stack Developer
+</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Developer;Learning+Full+Stack;Building+Modern+Web+Apps" />
 
 I am a web developer focused on building modern, interactive, and user-friendly web applications.
 
@@ -8,24 +17,21 @@ Currently learning and improving my skills in frontend development while working
 
 ---
 
-## 🛠 Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+# 🛠 Tech Stack
 
 
-### Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+# 📊 GitHub Stats
+
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=amir-sharmi&show_icons=true&theme=tokyonight" />
+
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amir-sharmi&layout=compact&theme=tokyonight" />
 
 # 🚀 Featured Projects
 
@@ -75,3 +81,8 @@ https://www.linkedin.com/in/amir-sharmi-70067b420
 
 GitHub:
 https://github.com/amir-sharmi
+
+# 🐍 Contribution Snake
+
+
+<img src="https://raw.githubusercontent.com/amir-sharmi/amir-sharmi/output/github-contribution-grid-snake.svg" />
